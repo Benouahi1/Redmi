@@ -4,7 +4,6 @@ Je suis un développeur Full Stack JavaScript capable de travailler sur les diff
 
 ✨ Faits en bref
 <br>
-
 👀 I’m interested in programming
 <br>
 🌱 I’m currently learning programming languages
